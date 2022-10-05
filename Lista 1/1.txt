@@ -1,0 +1,1 @@
+GLSL é a linguagem usada para a configuração dos shaders.Os shaders necessários são o Vertex Shader e o Fragment Shader.

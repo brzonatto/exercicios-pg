@@ -1,0 +1,1 @@
+Primitiva gráfica é a forma primordial que é usada para formar figuras mais complexas. O triângulo por exemplo, é a forma mais simples de ser desenhada em 3d, por possuir apenas 3 vértices. As vértices são armazenadas em um array de float.

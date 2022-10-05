@@ -1,0 +1,1 @@
+Os Vertex Buffer Objects recebem os dados de vértices e enviam seus dados para a GPU. Vertex Array Object tem a função de descrevem os dados do vértice. O Element Object Buffer utiliza índices para evitar a formação de vértices redundantes.

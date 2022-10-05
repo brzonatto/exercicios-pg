@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 7\HelloTriangle\Source.cpp(36,27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 7\HelloTriangle\Source.cpp(148,46): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 7\HelloTriangle\Source.cpp(236,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  HelloTriangle.vcxproj -> C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 7\Debug\HelloTriangle.exe

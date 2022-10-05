@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 6\HelloTriangle\Source.cpp(36,27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 6\HelloTriangle\Source.cpp(135,36): warning C4244: 'argumento': conversão de 'const GLfloat' para 'GLsizei', possível perda de dados
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 6\HelloTriangle\Source.cpp(140,41): warning C4244: 'argumento': conversão de 'float' para 'GLsizei', possível perda de dados
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 6\HelloTriangle\Source.cpp(222,33): warning C4244: 'inicializando': conversão de 'float' para 'unsigned int', possível perda de dados
+C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 6\HelloTriangle\Source.cpp(247,44): warning C4244: 'argumento': conversão de 'float' para 'GLsizeiptr', possível perda de dados
+  HelloTriangle.vcxproj -> C:\Users\brzon\Desktop\Processamento Gráfico\PG-2022\Lista 1\Exercicio 6\Debug\HelloTriangle.exe
